@@ -17,4 +17,4 @@
 เปิด Termux ขึ้นมา แล้วคัดลอกคำสั่งนี้ไปวางแล้วกด Enter:
 
 ```bash
-pkg install curl -y && curl -fsSL https://raw.githubusercontent.com/<YOUR-GITHUB-USERNAME>/<YOUR-REPO-NAME>/main/install.sh | bash
+pkg install curl -y && curl -fsSL https://raw.githubusercontent.com/ReworkedsModder/TermuxTheme/refs/heads/main/install.sh | bash
